@@ -38,7 +38,7 @@ awful.mouse.append_global_mousebindings({
 awful.mouse.snap.edge_enabled = false
 awful.mouse.snap.client_enabled = true
 
-
+-- Test
 -- Keyboard
 
 client.connect_signal("request::default_keybindings", function()
